@@ -1,0 +1,24 @@
+{
+  "name": "markdown-it-highlightjs-external",
+  "version": "1.0.0",
+  "description": "highlight.js plugin for markdown-it to use external link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CHENXCHEN/markdown-it-highlightjs-external.git"
+  },
+  "keywords": [
+    "markdown-it",
+    "highlight",
+    "external"
+  ],
+  "author": "CHENXCHEN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CHENXCHEN/markdown-it-highlightjs-external/issues"
+  },
+  "homepage": "https://github.com/CHENXCHEN/markdown-it-highlightjs-external#readme"
+}
