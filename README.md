@@ -1,6 +1,8 @@
 # markdown-it-highlightjs-external
 
-> highlight.js plugin for markdown-it to use external link
+> Preset use [highlight.js](https://highlightjs.org/) with markdown-it by external_link
+> You should add `hljs` external_link for use it.
+> example: <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
 
 ## Usage
 ```javascript
