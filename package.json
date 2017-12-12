@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-highlightjs-external",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "highlight.js plugin for markdown-it to use external link",
   "main": "index.js",
   "scripts": {

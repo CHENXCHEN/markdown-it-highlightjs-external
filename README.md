@@ -7,7 +7,7 @@
 ## Usage
 ```javascript
 var md = require('markdown-it')()
-var mihe = require('markdown-it-highlightjs-external')()
+var mihe = require('markdown-it-highlightjs-external')
 md.use(mihe, {
     hljs: 'auto', // If this set auto, plugin will use window.hljs for highlight.
     highlighted: true, // If this set false, plugin will disabled highlight.
